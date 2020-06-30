@@ -1,0 +1,4 @@
+com\wpc\springcloud\bean\Dept.class
+com\wpc\springcloud\service\DeptClientService.class
+com\wpc\springcloud\service\DeptClientServiceFallbackFactory.class
+com\wpc\springcloud\service\DeptClientServiceFallbackFactory$1.class
